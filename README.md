@@ -1,10 +1,5 @@
 # Data-Analytics-2024-Project (Stock Market Analysis Using Hierarchical Clustering)
-Submitted By
-Anishka Vaitla
-Ramesh Kumar
-Tarun Kumar Sahu 
-Varivashya Poladi
-Yogangi Tiwari
+Submitted By: Anishka Vaitla, Ramesh Kumar, Tarun Kumar Sahu, Varivashya Poladi, Yogangi Tiwari
 
 Code Summary by Cell
 Cell 1: Library Imports
