@@ -2,7 +2,7 @@
 Submitted By: Anishka Vaitla, Ramesh Kumar, Tarun Kumar Sahu, Varivashya Poladi, Yogangi Tiwari
 
 
-Our Aim is "To compare stock market network dynamics and resilience between the 2008 Financial Crisis and 2020 COVID-19 Crisis using network analysis."
+Aim: To compare stock market network dynamics and resilience between the 2008 Financial Crisis and 2020 COVID-19 Crisis using network analysis.
 
 Code Summary by Cell
 Cell 1: Library Imports
